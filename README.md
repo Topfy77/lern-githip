@@ -1,2 +1,2 @@
 # lern-githip
-git remote add origin <URL remote repository>
+git remote add origin <URL remote lern-githup>
